@@ -1,0 +1,21 @@
+h1{
+    margin: 40px;
+}
+
+body{
+    background-color: #783937;
+}
+
+footer{
+    background-color: #fff;
+}
+
+.icon {
+    width: 1.8rem;
+    height: 1.8rem;
+    padding: 1.2rem;
+    background-color: #F1AC88;
+    border-radius: 50%;
+    color: #fff;
+    margin-bottom: 1.6rem;
+  }
